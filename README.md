@@ -1,6 +1,6 @@
 
 
-# ❓How to run godot4 html projectt locally?
+# ❓How to run godot4 html project locally?
 
 - got to https://httpd.apache.org/download.cgi
   
