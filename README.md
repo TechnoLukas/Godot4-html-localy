@@ -38,6 +38,8 @@
     
     - See below what you should get as a result.
 
+<img src="https://i.imgur.com/J3PtpDq.png"  width="100%" height="10%">
+
 Updating config file is done.
 
 - Now we have to install and start the server
@@ -55,7 +57,7 @@ Updating config file is done.
   <img src="https://i.imgur.com/RsrlkqH.png"  width="60%" height="30%">
 
 - We have created the server now, we need to put our game there. Go to your `Apache/htdocs` folder, then create folder `game1` (name of your game, up to you) and put our web files, like on the image below. Main .html file should be named index.html **!Very important!**
-  ![[Pasted image 20230521103103.png]]
+  <img src="https://i.imgur.com/v5nGXbO.png"  width="60%" height="30%">
 
 - Now if we will go to http://localhost:8080/game1 (after "/" in should be name of the folder that we have created in previous step) your game will load :)
 
