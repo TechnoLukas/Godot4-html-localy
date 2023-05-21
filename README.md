@@ -1,6 +1,4 @@
-
-
-# ❓How to run godot4 html project locally?
+# ❓How to run godot4 html project locally on Windows?
 
 - got to https://httpd.apache.org/download.cgi
   
@@ -46,7 +44,7 @@ Updating config file is done.
 
 - [!] All the commands should be executed with Admin Rights
 
-- first, run cmd as admin and go to your `Apache24/bin` folder, and run `httpd.exe -k install` and you will see windows popup window, you should allow the acces. Don't close cmd window.
+- first, run cmd as admin and go to your `Apache24/bin` **>** `httpd.exe -k install` and you will see windows popup window, you should allow the acces. Don't close cmd window.
   
   <img src="https://i.imgur.com/lh0kHc4.png"  width="60%" height="30%">
 
@@ -57,6 +55,7 @@ Updating config file is done.
   <img src="https://i.imgur.com/RsrlkqH.png"  width="60%" height="30%">
 
 - We have created the server now, we need to put our game there. Go to your `Apache/htdocs` folder, then create folder `game1` (name of your game, up to you) and put our web files, like on the image below. Main .html file should be named index.html **!Very important!**
+  
   <img src="https://i.imgur.com/v5nGXbO.png"  width="60%" height="30%">
 
 - Now if we will go to http://localhost:8080/game1 (after "/" in should be name of the folder that we have created in previous step) your game will load :)
