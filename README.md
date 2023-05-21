@@ -58,7 +58,7 @@ Updating config file is done.
 
 - We have created the server now, we need to put our game there. Go to your `Apache/htdocs` folder, then create folder `game1` (name of your game, up to you) and put our web files, like on the image below. Main .html file should be named index.html **!Very important!**
   
-  <img src="https://i.imgur.com/v5nGXbO.png"  width="60%" height="30%">
+  <img src="https://i.imgur.com/APJ822H.png"  width="60%" height="30%">
 
 - Now if we will go to http://localhost:8080/game1 (after "/" in should be name of the folder that we have created in previous step) your game will load :)
 
