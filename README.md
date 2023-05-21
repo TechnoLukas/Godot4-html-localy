@@ -1,10 +1,6 @@
---- 
 
-# ℹ️▪▪ Desc
 
----
-
-# ❓▪▪ How to make
+# ❓How to run godot4 html projectt locally?
 
 - got to https://httpd.apache.org/download.cgi
   
@@ -71,9 +67,10 @@ Updating config file is done.
   <p><a href="http://localhost:8080/game1">http://localhost:8080/game1</a></p>
   
   <p><a href="http://localhost:8080/game2">http://localhost:8080/game2</a></p>
-
+  
   <p><a href="xxxx">xxxx</a></p>
   ```
+
 ---
 
 Also useful commands:
