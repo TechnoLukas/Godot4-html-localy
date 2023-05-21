@@ -9,7 +9,7 @@
   
   <img src="https://i.imgur.com/AOrZ7k5.png"  width="100%" height="10%">
 
-- Unzip and put `Apache24` to your stable folder.
+- Unzip and put `Apache24` to your suitable folder.
 
 - Now we need to modify config file. Got to your new Apache24 folder and go to conf/httpd.conf
   
@@ -36,7 +36,7 @@
     
     - See below what you should get as a result.
 
-<img src="https://i.imgur.com/J3PtpDq.png"  width="100%" height="10%">
+<img src="https://i.imgur.com/Q2dH8Ky.png"  width="100%" height="10%">
 
 Updating config file is done.
 
@@ -44,7 +44,9 @@ Updating config file is done.
 
 - [!] All the commands should be executed with Admin Rights
 
-- first, run cmd as admin and go to your `Apache24/bin` **>** `httpd.exe -k install` and you will see windows popup window, you should allow the acces. Don't close cmd window.
+- first, run cmd as admin,
+  
+   `Apache24/bin > httpd.exe -k install` and you will see windows popup window, you should allow the acces. Don't close cmd window.
   
   <img src="https://i.imgur.com/lh0kHc4.png"  width="60%" height="30%">
 
