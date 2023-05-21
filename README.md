@@ -65,6 +65,9 @@ Updating config file is done.
 - You can also add second game following the same steps. Create folder, put web file (very important index.html)
 
 - Now we want to store links to our main server page. Go to your `Apache/htdocs` and create `index.html`, paste code below and to add more links you need to just replace xxxx on your link.
+
+
+<img src="https://i.imgur.com/ct88Orx.png"  width="60%" height="30%">
   
   ```
   <p><a href="http://localhost:8080/game1">http://localhost:8080/game1</a></p>
