@@ -36,7 +36,7 @@
     
     - See below what you should get as a result.
 
-<img src="https://i.imgur.com/Q2dH8Ky.png"  width="100%" height="10%">
+<img src="https://i.imgur.com/QfsXZs4.png"  width="100%" height="10%">
 
 Updating config file is done.
 
