@@ -87,3 +87,11 @@ Also useful commands:
 - http.exe -k start
 - http.exe -k install
 - http.exe -k deinstall
+
+For more information:
+
+- https://godotforums.org/d/32745-how-do-i-configure-apache-web-server-to-serve-godot-4-apps
+- https://techkblog.com/enable-sharedarraybuffer-coop-coep/
+- https://ubiq.co/tech-blog/enable-cors-apache-web-server/
+- https://www.oreilly.com/library/view/head-first-servlets/9780596516680/ch01s18.html
+
